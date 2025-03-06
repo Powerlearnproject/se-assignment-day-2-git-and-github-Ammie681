@@ -5,20 +5,20 @@
 
 **Fundamentals of Version Control**
 
-**Version control** is a system that tracks changes to files over time. It allows multiple people to collaborate on a project while keeping a history of all modifications. 
+*Version control* is a system that tracks changes to files over time. It allows multiple people to collaborate on a project while keeping a history of all modifications. 
 
-*There are two main types*
+**There are two main types**
 
 1.	Local Version Control – Changes are tracked only on a single machine.
-2.	
-3.	Centralized Version Control (CVCS) – A single server stores all version history, and users retrieve updates from it.
-4.	
-5.	Distributed Version Control (DVCS) – Each user has a complete copy of the repository, making it more robust (e.g., Git).
-6.	
+	
+2.	Centralized Version Control (CVCS) – A single server stores all version history, and users retrieve updates from it.
+   
+3.	Distributed Version Control (DVCS) – Each user has a complete copy of the repository, making it more robust (e.g., Git).
+   
 
-*Why GitHub is a Popular Version Control Tool*
+**Why GitHub is a Popular Version Control Tool**
 
-**GitHub** is a cloud-based platform that uses Git for version control. It is widely used because:
+*GitHub* is a cloud-based platform that uses Git for version control. It is widely used because:
 
 •	Collaboration – Multiple developers can work on the same project without conflicts.
 
